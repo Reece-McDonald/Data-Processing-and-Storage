@@ -1,4 +1,5 @@
 # Data-Processing-and-Storage
+By: Reece McDonald
 Instructions for running code
 1. Clone repository
 2. Move .h and .cpp file into whatever project file you're working with, C++ exclusive.
